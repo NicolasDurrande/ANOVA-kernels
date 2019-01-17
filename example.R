@@ -2,7 +2,7 @@ library(kergp)
 library(DiceDesign)
 library(rgl)
 
-source("AS_functions.R")
+source("functions.R")
 
 ## params
 ftest <- function(x){
